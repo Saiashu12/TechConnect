@@ -6,8 +6,6 @@ ROLE BASED ACCESS :
 * TEAM-LEAD: Manages their team efficiently, updates personal progress, and oversees the progress of individual team members..
 * TEAM-MEMBER : Focuses on their tasks, updates personal progress, and reports any issues encountered during the work..
 Automated Issue Reporting :
-IMPACT : 
-* TeamInfo ensures transparency, accountability, and effective communication within the team. By providing a centralized platform for tracking progress and addressing issues promptly, the system contributes to a more productive and collaborative work environment.
 
 ## Frontend
 

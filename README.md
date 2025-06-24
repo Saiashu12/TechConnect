@@ -1,12 +1,3 @@
-# TEAM_INFO
-OVERVIEW :    
- * TeamInfo is a comprehensive team management system designed to streamline communication and facilitate efficient progress tracking within a team. The system caters to three main roles: Admin, Team Lead, and Team Member.
-ROLE BASED ACCESS :
-* ADMIN  : Monitors the numbers of projects completed and top team performance and overall team progress with team_names ....can also view a  particular team progress individually by  clicking on the desired team ..it displays the particular team details individually all the team-members with TeamLead progress if necessary.
-* TEAM-LEAD: Manages their team efficiently, updates personal progress, and oversees the progress of individual team members..
-* TEAM-MEMBER : Focuses on their tasks, updates personal progress, and reports any issues encountered during the work..
-Automated Issue Reporting :
-
 ## Frontend
 
 This is the frontend part of the TEAM_INFO project.

@@ -1,6 +1,6 @@
 ## Frontend
 
-This is the frontend part of the TEAM_INFO project.
+This is the frontend part of the Tech-Connect project.
 
 ### Description
 
@@ -36,7 +36,7 @@ To get started with the frontend development, follow these steps:
  
 ## Backend
 
-This is the backend part of the TEAM_INFO project.
+This is the backend part of the Tech-Connect project.
 ### Description
 
 The backend serves as the API server for handling data requests and interactions with the database.
@@ -76,7 +76,3 @@ Now you're ready to start the development server and work on the backend part of
    nodemon App.js;
 
 
-### Acknowledgments
-
-- Thanks to the creators of the libraries and frameworks used in this project.   
-======
